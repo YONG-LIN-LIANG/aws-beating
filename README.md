@@ -1,2 +1,2 @@
 # aws-beating
-This is the AWS questions we collect to help people beat AWS certificates.
+This is repo which contains AWS questions used to help people beat AWS certificates.
